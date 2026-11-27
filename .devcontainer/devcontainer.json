@@ -1,0 +1,12 @@
+{
+	"name": "Ubuntu",
+	"image": "mcr.microsoft.com/devcontainers/base:resolute",
+	"features": {
+		"ghcr.io/devcontainers/features/node:2.1.2": {
+			"version": "26.13.1"
+		},
+		"ghcr.io/devcontainers/features/python:1.8.1": {
+			"version": "3.12"
+		}
+	}
+}
